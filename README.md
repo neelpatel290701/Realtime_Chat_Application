@@ -1,7 +1,7 @@
 # Realtime_Chat_Application
 It is a Web App built using PHP, MySQL, HTML, CSS, and JavaScript.
 
-#Description
+# Description
 It is a chat application that requires users to sign up first.
 
 For sign up they require to validate first with verification code.
@@ -12,7 +12,7 @@ To log out, users can click on the logout button, which will redirect them to th
 
 To enter the chatting page again, users need to log in with their registered email and password.
 
-#Installation
+# Installation
 To install ChatApp, users need to download the project's zip file, unzip it, and copy the folder to the htdocs folder of their XAMPP installation.
 
 Then, they need to start Apache and MySQL from the XAMPP control panel.
